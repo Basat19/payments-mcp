@@ -118,7 +118,7 @@ npx @coinbase/payments-mcp install --verbose
 - Use `--force` flag to force reinstallation
 
 **Network Issues**
-- Check your firewall and proxy settings
+- Check your firewall and proxy settings.
 
 ### Debug Mode
 
